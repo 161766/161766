@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @161766
+- 👋 Hi, I’m @ooha
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with github
